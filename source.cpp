@@ -35,7 +35,7 @@ int main(){
     double seconds = double(end - start) / CLOCKS_PER_SEC;
 
     std::cout << "Sum: " << result << std::endl;
-    std::cout << "Time: " << seconds << " seconds." << std::endl;
+    std::cout << "Time: " << seconds << " seconds" << std::endl;
 
 
     return 0;
